@@ -1,0 +1,35 @@
+---
+title: "Luis Roca"
+image: "Luis.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/luis-roca-1219b7a2/"
+  - label: Twitter
+    url: "https://twitter.com/lroca25"
+  - label: GitHub
+    url: "https://github.com/luiqs"
+  - label: Email
+    url: "mailto:lroca25@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Working...
+
+## Education
+
+**Brandenburg University of Technology** | Cottbus, Germany
+
+M.Sc. in Environmental and Resource Management | September 2014 - July 2019
+
+**Universidad Nacional Agraria la Molina** | Lima-Peru
+
+B.S. in Biology | September 2006 - February 2011
+
+## Experience
+
+**Universidad Científica del Sur** | Professor | February 2020 - Present
+
+**International Potato Center** | Junior Research Assistant | February 2010 - July 2016
